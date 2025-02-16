@@ -1,0 +1,1 @@
+The MERN Stack Bookstore App is a full-stack web app using MongoDB, Express, React, and Node.js, providing complete CRUD functionality for managing books. The backend uses Express and MongoDB, while the frontend, built with React and Tailwind CSS, includes table and card views, modals, and alerts. It’s ideal for learning MERN development.
